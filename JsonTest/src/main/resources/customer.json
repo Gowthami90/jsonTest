@@ -1,0 +1,22 @@
+{
+  "firstName" : "vijay",
+  "lastName" : "bhaskar",
+  "address" : "Lingampally",
+  "emailId" : "gow@gmail.com",
+  "mobNum" : "9703547640",
+  "city" : "Hyderabad",
+  "orders" : [ {
+    "oid" : "1234",
+    "name" : "TV",
+    "quantity" : 1
+  }, {
+    "oid" : null,
+    "name" : null,
+    "quantity" : 0
+  } ],
+  "account" : {
+    "branchName" : "Banjara Hills",
+    "accountNumber" : 12345678,
+    "balance" : 10000.0
+  }
+}
